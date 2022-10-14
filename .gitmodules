@@ -2,3 +2,7 @@
 	path = thirth_party/zip
 	url = https://github.com/hyj0/zip
 	branch = hyj
+[submodule "uthread"]
+    path = thirth_party/uthread
+    url = https://github.com/hyj0/uthread
+    branch = master
